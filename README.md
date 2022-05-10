@@ -1,16 +1,16 @@
 # Hitters-Salary-Prediction-with-Machine-Learning
 
-###################################################
+#####################
 İŞ PROBLEMİ
-###################################################
+#####################
 
 Maaş bilgileri ve 1986 yılına ait kariyer istatistikleri paylaşılan beyzbol
 oyuncularının maaş tahminleri için bir makine öğrenmesi projesi gerçekleştirilebilir mi?
 
 
-###################################################
+#####################
 VERİ SETİ HİKAYESİ
-################################################### 
+##################### 
 
 Bu veri seti orijinal olarak Carnegie Mellon Üniversitesi'nde bulunan StatLib kütüphanesinden alınmıştır.
 Veri seti 1988 ASA Grafik Bölümü Poster Oturumu'nda kullanılan verilerin bir parçasıdır.
@@ -19,9 +19,9 @@ Maaş verileri orijinal olarak Sports Illustrated, 20 Nisan 1987'den alınmışt
 1987 Beyzbol Ansiklopedisi Güncellemesinden elde edilmiştir.
 
 
-###################################################
+#####################
 DEĞİŞKENLER
-###################################################
+#####################
 
 AtBat: 1986-1987 sezonunda bir beyzbol sopası ile topa yapılan vuruş sayısı
 Hits: 1986-1987 sezonundaki isabet sayısı
