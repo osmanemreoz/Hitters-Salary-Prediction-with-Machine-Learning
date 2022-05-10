@@ -1,11 +1,9 @@
-
+# Hitters-Salary-Prediction-with-Machine-Learning
 
 ![jordan](https://user-images.githubusercontent.com/75579555/167703731-26493e7b-4bc9-4569-a51d-212ff1c96d28.PNG)
 
 
 
-
-# Hitters-Salary-Prediction-with-Machine-Learning
 
 #####################
 İŞ PROBLEMİ
