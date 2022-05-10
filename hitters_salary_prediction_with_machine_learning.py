@@ -17,7 +17,7 @@ from sklearn.preprocessing import LabelEncoder
 from sklearn.preprocessing import RobustScaler
 from sklearn.preprocessing import StandardScaler
 
-df = pd.read_csv("7. Hafta Makine Öğrenmesi/ödev/Maaş Tahmin Modeli Oluşturma/hitters.csv")
+df = pd.read_csv("datasets/hitters.csv")
 
 
 
